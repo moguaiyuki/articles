@@ -1,6 +1,10 @@
 # 記事まとめ
 
 ## 技術系
+#### マンガボックスの価値を確信するエンジニアのチャレンジ（PDCAの最高の例）
+- https://speakerdeck.com/koooootake/mangabox-engineer-challenge
+- https://engineer.dena.jp/2019/03/dena-techcon-2019-best-talks.html
+
 #### 元ラーメン屋店長の僕がプログラマーになるためにやったこと
 - https://note.mu/hirothings/n/n7ea685a58101
 
@@ -11,6 +15,7 @@
 
 #### KPIを考えるうえで重要なこと
 - https://note.mu/hik0107/n/nc35fe647d6c0
+- https://note.mu/hik0107/n/n854ff66b2621?magazine_key=m690808397c03
 
 ## ツール系
 #### githubでも定義ジャンプができるようになる
@@ -42,3 +47,4 @@
 - http://blog.chase-dream.com/2014/12/25/3670
 
 #### Barでかっこよく飲むための知識
+- https://note.mu/itaty0/n/n12233e5e3fc1
