@@ -1,6 +1,8 @@
 # 記事まとめ
 
 ## 技術系
+#### 元ラーメン屋店長の僕がプログラマーになるためにやったこと
+- https://note.mu/hirothings/n/n7ea685a58101
 
 
 ## マーケティング系
@@ -30,7 +32,7 @@
 - https://mailchimp.com/features/landing-pages/
 
 #### いい感じの写真
-- http://o-dan.net/ja/
+- http://o-dan.net/ja/j
 
 ## その他
 #### 「情熱を探そう」というアドバイスはもうやめよう
