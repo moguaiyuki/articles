@@ -1,6 +1,10 @@
 # 記事まとめ
 
 ## 新人におすすめ
+
+#### 元ラーメン屋店長の僕がプログラマーになるためにやったこと
+- https://note.mu/hirothings/n/n7ea685a58101
+
 #### 質問の仕方
 - https://qiita.com/seki_uk/items/4001423b3cd3db0dada7
 
@@ -9,7 +13,7 @@
 
 ## メンター向け
 #### 質問制度の作り方
-- https://qiita.com/ysktsuna/items/fced3a9515c8f585ca50 （質問制度の作り方）
+- https://qiita.com/ysktsuna/items/fced3a9515c8f585ca50
 
 #### コミュニケーションの取り方(言葉遣い)
 - https://qiita.com/hiroking815/items/194e95ff9040a85b7b96
@@ -18,9 +22,6 @@
 #### マンガボックスの価値を確信するエンジニアのチャレンジ（PDCAの最高の例）
 - https://speakerdeck.com/koooootake/mangabox-engineer-challenge
 - https://engineer.dena.jp/2019/03/dena-techcon-2019-best-talks.html
-
-#### 元ラーメン屋店長の僕がプログラマーになるためにやったこと
-- https://note.mu/hirothings/n/n7ea685a58101
 
 ## デザイン
 #### FOLIOリブランディングの裏側
