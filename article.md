@@ -1,5 +1,19 @@
 # 記事まとめ
 
+## 新人におすすめ
+#### 質問の仕方
+- https://qiita.com/seki_uk/items/4001423b3cd3db0dada7
+
+#### slackのDMを使わない話
+- https://qiita.com/walkers/items/8c1b63694de4f5617cee
+
+## メンター向け
+#### 質問制度の作り方
+- https://qiita.com/ysktsuna/items/fced3a9515c8f585ca50 （質問制度の作り方）
+
+#### コミュニケーションの取り方(言葉遣い)
+- https://qiita.com/hiroking815/items/194e95ff9040a85b7b96
+
 ## 技術系
 #### マンガボックスの価値を確信するエンジニアのチャレンジ（PDCAの最高の例）
 - https://speakerdeck.com/koooootake/mangabox-engineer-challenge
@@ -8,6 +22,9 @@
 #### 元ラーメン屋店長の僕がプログラマーになるためにやったこと
 - https://note.mu/hirothings/n/n7ea685a58101
 
+## デザイン
+#### FOLIOリブランディングの裏側
+- https://note.mu/hajipion/n/n1653f6ebb468
 
 ## マーケティング系
 #### Instagramで1人もフォローせずにフォロワーお5000人超えた話
