@@ -110,3 +110,7 @@
 
 #### Barでかっこよく飲むための知識
 - https://note.mu/itaty0/n/n12233e5e3fc1
+
+## スクラム開発
+#### Mackerel開発チームカイゼンの旅（振り返り・モブプロ・スキルマップなど）
+- https://developer.hatenastaff.com/entry/2018/04/04/111410
