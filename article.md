@@ -20,6 +20,9 @@
 #### エンジニアが何か問題にぶつかったときにあるといい力を5個
 - https://bufferings.hatenablog.com/entry/2019/03/31/005750
 
+#### gitの使い方
+- https://qiita.com/west-hiroaki/items/74cccbc22b2cc7a4aacb
+
 ## メンター向け
 #### 質問制度の作り方
 - https://qiita.com/ysktsuna/items/fced3a9515c8f585ca50
