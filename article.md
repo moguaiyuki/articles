@@ -117,3 +117,10 @@
 ## スクラム開発
 #### Mackerel開発チームカイゼンの旅（振り返り・モブプロ・スキルマップなど）
 - https://developer.hatenastaff.com/entry/2018/04/04/111410
+
+## スタートアップ
+#### How my friends and I grew our side project into a $17,000/month business
+- https://www.freecodecamp.org/news/46024d2aa87f/
+
+#### We made $1,052,000 in 2018 selling UI Tools. Here is what we learned.
+- https://medium.com/38920d86a296
