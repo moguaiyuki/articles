@@ -30,6 +30,9 @@
 #### コミュニケーションの取り方(言葉遣い)
 - https://qiita.com/hiroking815/items/194e95ff9040a85b7b96
 
+#### リクルートテクノロジーズ新人研修
+- https://recruit-tech.co.jp/blog/2019/07/02/rtech_bootcamp_2019/
+
 #### 1on1
 効果的な 1 on 1 ミーティングのためにマネージャができること
 - https://medium.com/@tumada/%E5%8A%B9%E6%9E%9C%E7%9A%84%E3%81%AA-1-on-1-%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8-6d5c03a3383
@@ -69,6 +72,15 @@
 #### マンガボックスの価値を確信するエンジニアのチャレンジ（PDCAの最高の例）
 - https://speakerdeck.com/koooootake/mangabox-engineer-challenge
 - https://engineer.dena.jp/2019/03/dena-techcon-2019-best-talks.html
+
+#### Simple Data Analysis Leads Impact(メルカリのセグメントデータ分析の話)
+- https://speakerdeck.com/hik0107/simple-data-analytics-leads-impact
+
+#### FORMの送信ログから反省する本当は必要だったバリデーションや機能たち
+- https://speakerdeck.com/sadnessojisan/formfalsesong-xin-rogukarafan-sheng-suru-ben-dang-habi-yao-datutabaridesiyonyaji-neng-tati
+
+#### FastfileとBitriseワークフロー
+- https://blog.kishikawakatsumi.com/entry/2019/06/19/160150
 
 ## デザイン
 #### FOLIOリブランディングの裏側
