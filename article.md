@@ -48,3 +48,6 @@
 
 #### Barでかっこよく飲むための知識
 - https://note.mu/itaty0/n/n12233e5e3fc1
+
+## 投資
+- [ハッカーのための投資家ガイド (Paul Graham)](https://review.foundx.jp/entry/hackers-guide-to-investors)
