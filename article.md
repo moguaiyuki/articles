@@ -70,6 +70,7 @@
 ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習
 - https://qiita.com/hirokidaichi/items/27c757d92b6915e8ecf7
 
+- [新入社員との1on1で使っている質問リストを公開します(SMART HR)](https://blog.shojimiyata.com/entry/2019/10/09/184029)
 
 ## 技術系
 #### マンガボックスの価値を確信するエンジニアのチャレンジ（PDCAの最高の例）
