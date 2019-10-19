@@ -26,7 +26,8 @@
 
 ## プロダクトマーケットフィット的な
 - [Product-User Fit Comes Before Product-Market Fit](https://a16z.com/2019/09/16/product-user-fit-comes-before-product-market-fit/)
-- [プロダクト・マーケット・フィットの見極め方]
+- [プロダクト・マーケット・フィットの見極め方](https://signifiant.jp/articles/kiyo-pmf/)
+- [how the company got their first users from scratch](https://earlyusergrowth.com/startups/)
 
 ## データ分析
 - [データサイエンティスト養成読本『ビジネス活用編』の4章を全公開します](https://note.mu/hik0107/n/n7b3a1791aaaf)
