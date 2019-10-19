@@ -32,6 +32,8 @@
 ## データ分析
 - [データサイエンティスト養成読本『ビジネス活用編』の4章を全公開します](https://note.mu/hik0107/n/n7b3a1791aaaf)
 - [データ視覚化のデザイン #1](https://note.mu/goando/n/neb6ea35f1da3)
+- [A/Bテストのベストプラクティスと落とし穴 ~KDD2019 レポート~](https://data.gunosy.io/entry/kdd2019-online-experiment)
 
 ## マネジメント
 - [『プロジェクトマネジメント沼にハマろう！』〜参考資料編〜【最終更新 20191006】](https://note.mu/maidol/n/na2fb0f11213a)
+- [エンジニア組織づくり5年。見えてきた関西Web界隈のええとこ、あかんとこ](https://www.slideshare.net/ssuserd4b8ca/5web-developers-summit-2019-kansai)
