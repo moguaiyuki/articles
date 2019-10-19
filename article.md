@@ -5,6 +5,9 @@
 #### 元ラーメン屋店長の僕がプログラマーになるためにやったこと
 - https://note.mu/hirothings/n/n7ea685a58101
 
+#### 未経験からエンジニアを目指す全ての人たちへ
+- https://note.mu/bati667/n/nab947feb44e5
+
 #### 質問の仕方
 - https://qiita.com/seki_uk/items/4001423b3cd3db0dada7
 
