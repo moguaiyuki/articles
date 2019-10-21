@@ -1,6 +1,7 @@
 ## プロダクトマネジメント関連
 
 ## ゼロイチ
+- [The Design Sprint（Googleの価値創造プロセス）](https://www.gv.com/sprint/)
 - [
 【新サービスはどう作られているか】ブロックチェーン・プロジェクトの舞台裏を限界まで公開](https://blog.otakumode.com/2019/08/27/tokyo-honyaku-quest/)
 - [MVPをつくるために一番重要なことは？](https://signifiant.jp/articles/kiyo-mvp/)
