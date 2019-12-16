@@ -26,6 +26,9 @@
 - 
 
 ## プロダクトマーケットフィット的な
+- [顧客のBurning needsを解決する](https://chikathreesix.com/burning-needs)
+- [セールスアニマルになろう](https://www.slideshare.net/takaumada/startup-sales-animal)
+- [How to find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4)
 - [Product-User Fit Comes Before Product-Market Fit](https://a16z.com/2019/09/16/product-user-fit-comes-before-product-market-fit/)
 - [プロダクト・マーケット・フィットの見極め方](https://signifiant.jp/articles/kiyo-pmf/)
 - [how the company got their first users from scratch](https://earlyusergrowth.com/startups/)
