@@ -7,6 +7,7 @@
 - [エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド](https://qiita.com/hirokidaichi/items/95678bb1cef32629c317)
 
 ## ゼロイチ
+- [creating-a-lean-startup-style-assumption-set](https://www.alexandercowan.com/creating-a-lean-startup-style-assumption-set/)
 - [The Design Sprint（Googleの価値創造プロセス）](https://www.gv.com/sprint/)
 - [
 【新サービスはどう作られているか】ブロックチェーン・プロジェクトの舞台裏を限界まで公開](https://blog.otakumode.com/2019/08/27/tokyo-honyaku-quest/)
