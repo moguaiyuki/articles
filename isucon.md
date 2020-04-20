@@ -5,3 +5,4 @@
 - [ISUCON7予選の上位陣の戦略まとめ](https://blog.bitjourney.com/entry/2017/11/09/101740)
 - [ISUCON 夏期講習 2017 を開催しました](http://isucon.net/archives/50648750.html)
 - [ISUCON4 予選でアプリケーションを変更せずに予選通過ラインを突破するの術](https://kazeburo.hatenablog.com/entry/2014/10/14/170129)
+- [ISUCON初心者のためのISUCON7予選対策](http://isucon.net/archives/50697356.html)
