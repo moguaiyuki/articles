@@ -3,6 +3,7 @@
 - [reorderables(リストの並び替え)](https://pub.dev/packages/reorderables)
 - [リストのスライドアクション](https://pub.dev/packages/flutter_slidable)
 - [アプリ開発_初心者のアプリをプロっぽくする最強のpackageを紹介](https://qiita.com/kazumaz/items/876e162cf429014661d8)
+- [折り畳み可能なリストカード](https://pub.dev/packages/expansion_tile_card)
 
 
 ## Flutter Detail
