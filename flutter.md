@@ -14,11 +14,16 @@
 - [Flutter WidgetにKeyが必要な理由, 仕組みについて](https://qiita.com/kurun_pan/items/f91228cf5c793ec3f3cc)
 - [package:provider の各プロバイダの詳細](https://qiita.com/kabochapo/items/a90d8438243c27e2f6d9)
 
-## Flutter How to
+## Tips
 - [Flutter Design Patterns](https://medium.com/flutter-community/flutter-design-patterns-0-introduction-5e88cfff6792)
 - [Dart/Flutter での多言語対応あれこれ](https://medium.com/flutter-jp/intl-beb5b9e8ee73)
 - [Flutterで中国語フォントになってしまうときの設定](https://qiita.com/najeira/items/dbf5663d1ed845fb1f51)
 - [Futterアプリ開発七つの大罪(強制アップデートとか)](https://qiita.com/__naoya__/items/98ac66157a1578be2798)
+
+## Tutorial
+- [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386)
+- [Advanced Flutter Forms](https://medium.com/flutter-community/advanced-flutter-forms-part-1-e575422176ed)
+
 
 ## 参考Github
 - [youtube player](https://github.com/mono0926/flutter_youtube_player)
