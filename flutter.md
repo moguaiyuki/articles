@@ -6,6 +6,7 @@
 - [折り畳み可能なリストカード](https://pub.dev/packages/expansion_tile_card)
 - [secure storage](https://pub.dev/packages/flutter_secure_storage)
 - [flutter_typeahead(テキストの入力候補出してくれる)](https://pub.dev/packages/flutter_typeahead)
+- [flutter_spinkit(いい感じのProgress Indicator)](https://pub.dev/packages/flutter_spinkit)
 
 
 ## Flutter Detail
