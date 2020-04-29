@@ -5,6 +5,7 @@
 - [アプリ開発_初心者のアプリをプロっぽくする最強のpackageを紹介](https://qiita.com/kazumaz/items/876e162cf429014661d8)
 - [折り畳み可能なリストカード](https://pub.dev/packages/expansion_tile_card)
 - [secure storage](https://pub.dev/packages/flutter_secure_storage)
+- [flutter_typeahead(テキストの入力候補出してくれる)](https://pub.dev/packages/flutter_typeahead)
 
 
 ## Flutter Detail
