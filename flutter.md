@@ -20,6 +20,7 @@
 - [Dart/Flutter での多言語対応あれこれ](https://medium.com/flutter-jp/intl-beb5b9e8ee73)
 - [Flutterで中国語フォントになってしまうときの設定](https://qiita.com/najeira/items/dbf5663d1ed845fb1f51)
 - [Futterアプリ開発七つの大罪(強制アップデートとか)](https://qiita.com/__naoya__/items/98ac66157a1578be2798)
+- [スタイルの統一参考](https://twitter.com/_sgr_ksmt/status/1249656048937357312?s=12)
 
 ## Tutorial
 - [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386)
@@ -33,5 +34,3 @@
 - [Flutter eBook App](https://github.com/JideGuru/FlutterEbookApp)
 - [Book search app](https://medium.com/@angga.arifandi/using-redux-flutter-to-create-a-book-search-app-82891bd3ad56)
 
-## やりたいやつ
-- [Advanced Flutter Forms ](https://medium.com/flutter-community/advanced-flutter-forms-part-1-e575422176ed)
