@@ -25,6 +25,7 @@
 ## Tutorial
 - [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386)
 - [Advanced Flutter Forms](https://medium.com/flutter-community/advanced-flutter-forms-part-1-e575422176ed)
+- [bubble tab indicator](https://android.jlelse.eu/flutter-bubble-tab-indicator-for-tabbar-dd038f1076d3)
 
 
 ## 参考Github
