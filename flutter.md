@@ -26,7 +26,7 @@
 - [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386)
 - [Advanced Flutter Forms](https://medium.com/flutter-community/advanced-flutter-forms-part-1-e575422176ed)
 - [bubble tab indicator](https://android.jlelse.eu/flutter-bubble-tab-indicator-for-tabbar-dd038f1076d3)
-
+- [Create Custom Router Transition in Flutter using PageRouteBuilder](https://medium.com/@agungsurya/create-custom-router-transition-in-flutter-using-pageroutebuilder-73a1a9c4a171)
 
 ## 参考Github
 - [youtube player](https://github.com/mono0926/flutter_youtube_player)
