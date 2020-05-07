@@ -23,7 +23,7 @@
 
 
 ## スクラム
-- https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb
+- [10 powerful strategies for breaking down Product Backlog Items in Scrum](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)
 - https://qiita.com/i35_267/items/5d3ac6b603a613178ed6
 - https://github.com/moguaiyuki/AgileLite
 
