@@ -25,6 +25,7 @@
 - [Futterアプリ開発七つの大罪(強制アップデートとか)](https://qiita.com/__naoya__/items/98ac66157a1578be2798)
 - [スタイルの統一参考](https://twitter.com/_sgr_ksmt/status/1249656048937357312?s=12)
 - [Flutter best practices](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
+- [Dark Mode](https://medium.com/@pmutisya/dark-mode-in-flutter-3742062f9f59)
 
 ## Tutorial
 - [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386)
