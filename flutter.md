@@ -32,6 +32,8 @@
 - [Advanced Flutter Forms](https://medium.com/flutter-community/advanced-flutter-forms-part-1-e575422176ed)
 - [bubble tab indicator](https://android.jlelse.eu/flutter-bubble-tab-indicator-for-tabbar-dd038f1076d3)
 - [Create Custom Router Transition in Flutter using PageRouteBuilder](https://medium.com/@agungsurya/create-custom-router-transition-in-flutter-using-pageroutebuilder-73a1a9c4a171)
+- [How to make a serverless Flutter video sharing app with Firebase Storage, including HLS and client-side encoding
+](https://itnext.io/how-to-make-a-serverless-flutter-video-sharing-app-with-firebase-storage-including-hls-and-411e4fff68fa)
 
 ## 参考Github
 - [youtube player](https://github.com/mono0926/flutter_youtube_player)
