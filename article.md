@@ -2,6 +2,8 @@
 
 ## 新人におすすめ
 
+- [おれのおれによるおれのためのMacおすすめ設定](https://qiita.com/jonghyo/items/733e0aeb5d6cd58e4855)
+
 #### 元ラーメン屋店長の僕がプログラマーになるためにやったこと
 - https://note.mu/hirothings/n/n7ea685a58101
 
