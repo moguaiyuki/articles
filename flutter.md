@@ -22,6 +22,7 @@
 - [Flutterで中国語フォントになってしまうときの設定](https://qiita.com/najeira/items/dbf5663d1ed845fb1f51)
 - [Futterアプリ開発七つの大罪(強制アップデートとか)](https://qiita.com/__naoya__/items/98ac66157a1578be2798)
 - [スタイルの統一参考](https://twitter.com/_sgr_ksmt/status/1249656048937357312?s=12)
+- [Flutter best practices](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
 
 ## Tutorial
 - [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386)
