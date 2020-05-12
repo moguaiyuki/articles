@@ -21,6 +21,8 @@
 - [Dart/Flutter での多言語対応あれこれ](https://medium.com/flutter-jp/intl-beb5b9e8ee73)
 - [Flutterで中国語フォントになってしまうときの設定](https://qiita.com/najeira/items/dbf5663d1ed845fb1f51)
 - [Futterアプリ開発七つの大罪(強制アップデートとか)](https://qiita.com/__naoya__/items/98ac66157a1578be2798)
+- [アップデート促す](https://medium.com/swlh/update-app-flutter-402c528235e4)
+- [Futterアプリ開発七つの大罪(強制アップデートとか)](https://qiita.com/__naoya__/items/98ac66157a1578be2798)
 - [スタイルの統一参考](https://twitter.com/_sgr_ksmt/status/1249656048937357312?s=12)
 - [Flutter best practices](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5)
 
