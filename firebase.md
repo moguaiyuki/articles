@@ -1,0 +1,2 @@
+- [CloudFunctionsをきれいに整理したい。](https://qiita.com/1amageek/items/b93f8e4d99e3b6f423aa)
+- [Firebase Cloud Firestore rules tips](https://tech-blog.sgr-ksmt.org/2018/12/11/194022/)
