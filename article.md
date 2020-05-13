@@ -2,6 +2,7 @@
 
 ## 新人におすすめ
 
+- [自分がコードレビューで気をつけていること](http://curiosity.co.jp/review202005ios/)
 - [おれのおれによるおれのためのMacおすすめ設定](https://qiita.com/jonghyo/items/733e0aeb5d6cd58e4855)
 
 #### 元ラーメン屋店長の僕がプログラマーになるためにやったこと
