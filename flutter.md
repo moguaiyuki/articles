@@ -36,6 +36,8 @@
 - [StateNotifierを使ったFlutterのアプリ設計](https://itome.team/blog/2020/05/flutter-state-notifier-provider/)
 - [Flutter×GCP/Firebaseでしっかり作る時のポイント13個](https://medium.com/@sensuikan1973/flutter-and-gcp-firebase-overview-dca13da4ac20)
 - [Flutterでインテグレーションテスト(デバイスを使うテスト)](https://qiita.com/kasa_le/items/88aec3a5bd6167c4c29b)
+- [Flutterで環境ごとにビルド設定を切り替える — iOS編](https://medium.com/flutter-jp/flavor-b952f2d05b5d)
+- [Environments (Flavors) in Flutter with Codemagic CI/CD](https://resocoder.com/2020/02/19/environments-flavors-in-flutter-with-codemagic-ci-cd/)
 
 ## Tutorial
 - [Getting to the Bottom of Navigation in Flutter](https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386)
