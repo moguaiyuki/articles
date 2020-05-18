@@ -14,6 +14,7 @@
 - [MVPをつくるために一番重要なことは？](https://signifiant.jp/articles/kiyo-mvp/)
 
 ## グロース・マーケティング
+- [人気C向けアプリがいかにして初期ユーザー1,000人を獲得したか？](https://note.com/offtopic/n/n74fd8cecfd1d)
 - [プッシュ通知許諾率上昇](https://speakerdeck.com/takeshiakutsu/increase-push-notification-acception-rate-by-23-percent-within-a-month)
 - [Tips for product growth freaks](https://speakerdeck.com/kajiken_meson/tips-for-product-growth-freaks)
 - [覚悟を決めて数字を追う。メルペイマーケ責任者がメルカリ時代から一貫していること](https://mercan.mercari.com/articles/16172/)
