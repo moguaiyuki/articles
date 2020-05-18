@@ -21,7 +21,7 @@
 - [qr_flutter(QRコード表示)](https://pub.dev/packages/qr_flutter)
 - [firebase_crashlytics(crashレポート)](https://pub.dev/packages/firebase_crashlytics)
 - [uuid](https://pub.dev/packages/uuid)
-
+- [sign_in_with_apple](https://pub.dev/packages/sign_in_with_apple)
 
 ## Flutter Detail
 - [Stateful Widget のパフォーマンスを考慮した正しい扱い方](https://medium.com/flutter-jp/state-performance-7a5f67d62edd)
