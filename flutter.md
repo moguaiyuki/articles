@@ -12,7 +12,15 @@
 - [google_fonts](https://pub.dev/packages/google_fonts)
 - [time(3.minutesとか)](https://pub.dev/packages/time)
 - [gap](https://pub.dev/packages/gap)
-
+- [image_picker(端末に保存されている画像を選択)](https://pub.dev/packages/image_picker)
+- [photo_view(画像をピンチイン・ピンチアウトで拡大縮小)](https://pub.dev/packages/photo_view)
+- [image_cropper(画像くりぬき)](https://pub.dev/packages/image_cropper)
+- [share(共有する)](https://pub.dev/packages/share)
+- [connectivity(ネットの接続状態取得)](https://pub.dev/packages/connectivity)
+- [url_launcher(URLを開く)](https://pub.dev/packages/url_launcher)
+- [qr_flutter(QRコード表示)](https://pub.dev/packages/qr_flutter)
+- [firebase_crashlytics(crashレポート)](https://pub.dev/packages/firebase_crashlytics)
+- [uuid](https://pub.dev/packages/uuid)
 
 
 ## Flutter Detail
